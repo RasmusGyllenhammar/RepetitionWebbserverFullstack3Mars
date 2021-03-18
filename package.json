@@ -1,0 +1,27 @@
+{
+  "name": "RepetitionWebbserverFullstack3Mars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RasmusGyllenhammar/RepetitionWebbserverFullstack3Mars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RasmusGyllenhammar/RepetitionWebbserverFullstack3Mars/issues"
+  },
+  "homepage": "https://github.com/RasmusGyllenhammar/RepetitionWebbserverFullstack3Mars#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
